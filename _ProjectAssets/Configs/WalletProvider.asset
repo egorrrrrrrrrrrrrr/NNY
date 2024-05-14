@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc28f70b5277a984dab6f06491588ba6, type: 3}
+  m_Name: WalletProvider
+  m_EditorClassIdentifier: 
+  _editorSource: 0
+  _defaultSource: 1
+  _desiredBuildDataSource: 1
+  _key: wallet
+  _money:
+  - _currency: {fileID: 11400000, guid: 3f90f197f58d05045818fdd2d4bedace, type: 2}
+    _value: 0
+  _default: 00000000

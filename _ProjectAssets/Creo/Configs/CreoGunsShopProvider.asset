@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3fc8f28194f2949b4f6c413233b2ad, type: 3}
+  m_Name: CreoGunsShopProvider
+  m_EditorClassIdentifier: 
+  _desiredEditorDataSource: 0
+  _desiredBuildDataSource: 0
+  _defaultItem: {fileID: 11400000, guid: 304a4abde98748743bc58d83f6b26d34, type: 2}
+  _items:
+  - _descriptor: {fileID: 11400000, guid: 304a4abde98748743bc58d83f6b26d34, type: 2}
+    _status: 1
+    _cost:
+    - _currency: {fileID: 11400000, guid: 3f90f197f58d05045818fdd2d4bedace, type: 2}
+      _value: 500

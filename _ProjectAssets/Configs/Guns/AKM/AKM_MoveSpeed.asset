@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 575a1ca54f9fd764eb870a2182ce105a, type: 3}
+  m_Name: AKM_MoveSpeed
+  m_EditorClassIdentifier: 
+  _desiredEditorDataSource: 0
+  _desiredBuildDataSource: 0
+  _entity: {fileID: 11400000, guid: 7818cec5c13c6e84683719b11cf57d5c, type: 2}
+  _stat: {fileID: 11400000, guid: b8907adf18cb7d74582fa5f905c07478, type: 2}
+  _values:
+  - 5

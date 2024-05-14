@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3fc8f28194f2949b4f6c413233b2ad, type: 3}
+  m_Name: PlayerUnitsShopProvider
+  m_EditorClassIdentifier: 
+  _editorSource: 0
+  _defaultSource: 0
+  _desiredBuildDataSource: 0
+  _key: units_shop
+  _defaultItem: {fileID: 11400000, guid: dec776d34c3c132499f7ca54109e4894, type: 2}
+  _items:
+  - _key: "Active\t\tsteve\t\t0"
+    _descriptor: {fileID: 11400000, guid: dec776d34c3c132499f7ca54109e4894, type: 2}
+    _status: 1
+    _cost:
+    - _currency: {fileID: 11400000, guid: 3f90f197f58d05045818fdd2d4bedace, type: 2}
+      _value: 0
